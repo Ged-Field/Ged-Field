@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ged-Field.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning Rust.
+- 📫 How to reach me: twang.hello@hotmail.com
 
 <!---
 Ged-Field/Ged-Field is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
