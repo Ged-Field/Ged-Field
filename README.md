@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ged-Field
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Rust
+- 👋 Hi, I’m @Ged-Field.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning Rust.
 
 <!---
 Ged-Field/Ged-Field is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
